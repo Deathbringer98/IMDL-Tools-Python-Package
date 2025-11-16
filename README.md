@@ -68,7 +68,7 @@ You will be prompted to paste URLs interactively.
 | Trovo        | `imdl trovo`     |
 | Kick         | `imdl kick`      |
 | SoundCloud   | `imdl soundcloud` or `imdl sc` |
-
+| Pornhub      | `imdl phub`      |
 ---
 
 # 💡 How It Works
