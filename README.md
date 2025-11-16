@@ -12,6 +12,7 @@ IMDL Tools is a **power-user media downloader package** that gives you fast, scr
 - **Trovo VODs**
 - **Kick VODs**
 - **SoundCloud**
+- **Pornhub**
 
 All powered by `yt-dlp`, wrapped into a unified Python command-line interface.
 
