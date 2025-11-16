@@ -1,5 +1,5 @@
 # 📘 IMDL Tools – Impossible Media Downloader Suite
-
+version "1.0.0"
 IMDL Tools is a **power-user media downloader package** that gives you fast, script-based access to:
 
 - **TikTok**
