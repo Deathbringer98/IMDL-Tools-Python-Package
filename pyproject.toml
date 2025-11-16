@@ -1,0 +1,15 @@
+
+[build-system]
+requires=["setuptools"]
+build-backend="setuptools.build_meta"
+
+[project]
+name="imdl-tools"
+version="1.0.0"
+description="Media downloader suite"
+authors=[{name="Matthew Menchinton"}]
+requires-python=">=3.9"
+dependencies=["yt-dlp"]
+
+[project.scripts]
+imdl="imdl.cli:main"
